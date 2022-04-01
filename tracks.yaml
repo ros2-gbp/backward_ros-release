@@ -139,10 +139,10 @@ tracks:
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
     devel_branch: foxy-devel
-    last_version: 1.0.1
+    last_version: 1.0.2
     name: backward_ros
     patches: null
-    release_inc: '2'
+    release_inc: '1'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: rolling
