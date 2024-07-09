@@ -2,6 +2,29 @@
 Changelog for package backward_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.5 (2023-12-29)
+------------------
+* Merge pull request #14 from christophfroehlich/patch-1
+  Fix missing cmake config install rule
+* Readd old configuration
+  Co-authored-by: Sai Kishor Kothakota <saisastra3@gmail.com>
+* Update CMakeLists.txt
+* Contributors: Christoph Fröhlich, Sai Kishor Kothakota
+
+1.0.4 (2023-12-04)
+------------------
+* Merge branch 'cmake' into 'foxy-devel'
+  Implement it as a pure CMake library
+  See merge request qa/backward_ros!4
+* Remove INCLUDE_DIRS from package.xml
+* Implement it as a pure CMake library
+* Contributors: Adria Roig
+
+1.0.3 (2023-11-14)
+------------------
+* Add website tag
+* Contributors: Noel Jimenez
+
 1.0.2 (2022-03-31)
 ------------------
 * Merge pull request #11 from vatanaksoytezer/vatan/fix_fphsa
