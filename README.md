@@ -1,3 +1,26 @@
+## backward_ros (iron) - 1.0.5-1
+
+The packages in the `backward_ros` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron --track iron backward_ros -y` on `Tue, 09 Jul 2024 08:00:59 -0000`
+
+The `backward_ros` package was released.
+
+Version of package(s) in repository `backward_ros`:
+
+- upstream repository: git@github.com:pal-robotics/backward_ros.git
+- release repository: https://github.com/ros2-gbp/backward_ros-release.git
+- rosdistro version: `1.0.2-5`
+- old version: `1.0.2-5`
+- new version: `1.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## backward_ros (rolling) - 1.0.5-1
 
 The packages in the `backward_ros` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling backward_ros -y` on `Tue, 09 Jul 2024 07:59:20 -0000`
