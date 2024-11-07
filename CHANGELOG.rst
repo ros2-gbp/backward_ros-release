@@ -2,6 +2,29 @@
 Changelog for package backward_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.6 (2024-11-07)
+------------------
+* Update backward_rosConfig.cmake.in
+  adding both OS paths
+* Update backward_rosConfig.cmake.in to windows location
+* Set cxx standard to 14
+  Foxy targets = C++14
+  https://docs.ros.org/en/foxy/The-ROS2-Project/Contributing/Code-Style-Language-Versions.html
+* Merge branch 'remove/linters' into 'foxy-devel'
+  Remove linter tests for backward_ros
+  See merge request qa/backward_ros!8
+* Merge branch 'fix/ament_cmake_config' into 'remove/linters'
+  Include BackwardConfigAment.cmake in backward_ros cmake config
+  See merge request qa/backward_ros!10
+* Include the full path to BackwardConfigAment.cmake
+* include the contents of BackwardConfigAment.cmake
+* Remove linter tests for backward_ros
+* Merge branch 'fix/link_library_always' into 'foxy-devel'
+  Set backward_ros library to be linked always
+  See merge request qa/backward_ros!7
+* Set backward_ros library to be linked always
+* Contributors: Gilmar Correia, Noel Jimenez, Sai Kishor Kothakota, mosfet80
+
 1.0.5 (2023-12-29)
 ------------------
 * Merge pull request #14 from christophfroehlich/patch-1
