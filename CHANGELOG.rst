@@ -2,6 +2,11 @@
 Changelog for package backward_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.8 (2025-06-25)
+------------------
+* Export symbols for windows (#27)
+* Contributors: Christoph Fröhlich
+
 1.0.7 (2025-01-30)
 ------------------
 * Merge pull request #22 from Tobias-Fischer/patch-5
