@@ -1,3 +1,26 @@
+## backward_ros (rolling) - 1.0.8-1
+
+The packages in the `backward_ros` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling backward_ros -y` on `Wed, 25 Jun 2025 09:42:03 -0000`
+
+The `backward_ros` package was released.
+
+Version of package(s) in repository `backward_ros`:
+
+- upstream repository: git@github.com:pal-robotics/backward_ros.git
+- release repository: https://github.com/ros2-gbp/backward_ros-release.git
+- rosdistro version: `1.0.7-1`
+- old version: `1.0.7-1`
+- new version: `1.0.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## backward_ros (rolling) - 1.0.7-1
 
 The packages in the `backward_ros` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling backward_ros -y` on `Thu, 30 Jan 2025 09:36:17 -0000`
