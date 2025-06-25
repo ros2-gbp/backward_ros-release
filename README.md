@@ -1,3 +1,26 @@
+## backward_ros (kilted) - 1.0.8-1
+
+The packages in the `backward_ros` repository were released into the `kilted` distro by running `/usr/local/bin/bloom-release --rosdistro kilted --track kilted backward_ros -y` on `Wed, 25 Jun 2025 10:01:11 -0000`
+
+The `backward_ros` package was released.
+
+Version of package(s) in repository `backward_ros`:
+
+- upstream repository: git@github.com:pal-robotics/backward_ros.git
+- release repository: https://github.com/ros2-gbp/backward_ros-release.git
+- rosdistro version: `1.0.7-2`
+- old version: `1.0.7-2`
+- new version: `1.0.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## backward_ros (jazzy) - 1.0.8-1
 
 The packages in the `backward_ros` repository were released into the `jazzy` distro by running `/usr/local/bin/bloom-release --rosdistro jazzy --track jazzy backward_ros -y` on `Wed, 25 Jun 2025 09:54:59 -0000`
